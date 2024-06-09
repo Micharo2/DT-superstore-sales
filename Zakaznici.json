@@ -1,0 +1,59 @@
+[
+    {
+        "id_zakaznika": 1,
+        "meno": "Michal",
+        "priezvisko": "Rovňan",
+        "vek": 23,
+        "pohlavie": "muž",
+        "adresa": {
+            "stat": "Slovensko",
+            "okres": "Bytča",
+            "obec": "Veľké Rovné",
+            "ulica": "Veľké Rovné 123",
+            "psc": "123"
+        },
+        "kontakt": {
+            "email": "jmrkva@gmail.com",
+            "telefon": "0910654321",
+            "fax": "123"
+        }
+    },
+    {
+        "id_zakaznika": 2,
+        "meno": "Peter",
+        "priezvisko": "Rovňan",
+        "vek": 22,
+        "pohlavie": "muž",
+        "adresa": {
+            "stat": "Slovensko",
+            "okres": "Bytča",
+            "obec": "Veľké Rovné",
+            "ulica": "Veľké Rovné 123",
+            "psc": "123"
+        },
+        "kontakt": {
+            "email": "pmrkva@gmail.com",
+            "telefon": "0910999321",
+            "fax": "123"
+        }
+    },
+    {
+        "id_zakaznika": 3,
+        "meno": "Monika",
+        "priezvisko": "Mrkvičková",
+        "vek": 19,
+        "pohlavie": "žena",
+        "adresa": {
+            "stat": "Slovensko",
+            "okres": "Žilina",
+            "obec": "Žilina",
+            "ulica": "Žilina 123",
+            "psc": "123"
+        },
+        "kontakt": {
+            "email": "mmrkva@gmail.com",
+            "telefon": "0910654321",
+            "fax": "123"
+        }
+    }
+]

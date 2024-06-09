@@ -1,0 +1,29 @@
+[
+    {
+        "id_recenzie": 1,
+        "cislo_zakaznika": 1,
+        "produkt_id": 1,
+        "hodnotenie": 4.7,
+        "recenzia_popis": "veľmi dobrý produkt",
+        "recenzia_datumVzniku": "2024-02-04T09:36:04"
+
+    },
+    {
+        "id_recenzie": 2,
+        "cislo_zakaznika": 2,
+        "produkt_id": 1,
+        "hodnotenie": 3,
+        "recenzia_popis": "priemerný produkt",
+        "recenzia_datumVzniku": "2024-05-021T11:36:50"
+
+    },
+    {
+        "id_recenzie": 3,
+        "cislo_zakaznika": 3,
+        "produkt_id": 22,
+        "hodnotenie": 1.0,
+        "recenzia_popis": "ak by sa dalo, tak dám 0",
+        "recenzia_datumVzniku": "2024-03-15T23:22:07"
+
+    }
+]

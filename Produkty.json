@@ -1,0 +1,101 @@
+[
+    {
+        "id_produktu": 1,
+        "meno_produktu": "tricko",
+        "jednotkova_cena": 10.00,
+        "pocet_na_sklade": 200,
+        "kategoria": [{
+            "kategoria_meno": "oblecenie",
+            "kategoria_popis": "nepremokave tričko",
+            "podkategoria": [{
+                "podkategoria_meno": "športove",
+                "podkategoria_popis": "pre bežcov"
+
+            }]
+        }
+    ],
+    "dodavatelia": [{
+        "menoFirmy": "Nike",
+        "kontakt": {
+            "email": "nike@nike.com",
+            "telefon": "123",
+            "fax": "123"
+        }
+    },
+    {
+        "menoFirmy": "Puma",
+        "kontakt": {
+            "email": "puma@puma.com",
+            "telefon": "123",
+            "fax": "123"
+        }
+    }
+],
+      "zasoby": [{
+        "pocet_dostupnych": 200,
+        "preobjednat_hranica": 100,
+        "preobjednat_pocet": 100,
+        "adresaSkladu": "Žilina 123"
+      }]
+    },
+    {
+        "id_produktu": 2,
+        "meno_produktu": "kratasy",
+        "jednotkova_cena": 15.00,
+        "pocet_na_sklade": 200,
+        "kategoria": [{
+            "kategoria_meno": "oblecenie",
+            "kategoria_popis": "cierne kratasy",
+            "podkategoria": [{
+                "podkategoria_meno": "volny cas",
+                "podkategoria_popis": "pre kazdeho"
+
+            }]
+        }
+    ],
+    "dodavatelia": [{
+        "menoFirmy": "Puma",
+        "kontakt": {
+            "email": "puma@puma.com",
+            "telefon": "123",
+            "fax": "123"
+        }
+    }],
+      "zasoby": [{
+        "pocet_dostupnych": 200,
+        "preobjednat_hranica": 100,
+        "preobjednat_pocet": 100,
+        "adresaSkladu": "Bratislava 123"
+      }]
+    },
+    {
+        "id_produktu": 3,
+        "meno_produktu": "nike run",
+        "jednotkova_cena": 50.00,
+        "pocet_na_sklade": 100,
+        "kategoria": [{
+            "kategoria_meno": "oblecenie",
+            "kategoria_popis": "oblecenie nike",
+            "podkategoria": [{
+                "podkategoria_meno": "sportove",
+                "podkategoria_popis": "pre sportovcov"
+
+            }]
+        }
+    ],
+    "dodavatelia": [{
+        "menoFirmy": "Nike",
+        "kontakt": {
+            "email": "nike@nike.com",
+            "telefon": "123",
+            "fax": "123"
+        }
+    }],
+      "zasoby": [{
+        "pocet_dostupnych": 200,
+        "preobjednat_hranica": 100,
+        "preobjednat_pocet": 100,
+        "adresaSkladu": "Žilina 123"
+      }]
+    }
+]

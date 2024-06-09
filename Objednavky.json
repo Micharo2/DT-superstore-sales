@@ -1,0 +1,91 @@
+[
+    {
+        "id_objednavky": 1,
+        "cislo_zakaznika": 1,
+        "datumObjednania": "2024-03-06",
+        "datumOdoslania": "2024-03-08",
+        "segmenty": [{
+            "popis": "Zakaznicky klub"
+        },
+        {
+            "popis": "Mlady dospely"
+        }
+    ],
+    "sposobDopravy": {
+        "popis": "1 trieda"
+    },
+        "detaily_objednavky": {
+            "produkt": [{
+                "product_id": 1,
+                "pocet": 2,
+                "cena": 20.00,
+                "zlava": 20.00
+            }],
+            "pocet": 2,
+            "spolu": 20.00,
+            "profit": 5.00
+
+        }
+    },
+    {
+        "id_objednavky": 2,
+        "cislo_zakaznika": 2,
+        "datumObjednania": "2024-01-06",
+        "datumOdoslania": "2024-01-08",
+        "segmenty": [
+        {
+            "popis": "Mlady dospely"
+        }
+    ],
+    "sposobDopravy": {
+        "popis": "2 trieda"
+    },
+        "detaily_objednavky": {
+            "produkt": [{
+                "product_id": 1,
+                "pocet": 2,
+                "cena": 20.00,
+                "zlava": 20.00
+            }, 
+        { 
+            "product_id": 2,
+                "pocet": 2,
+                "cena": 30.00,
+                "zlava": 0.00
+        }],
+            "pocet": 4,
+            "spolu": 50.00,
+            "profit": 15.00
+
+        }
+    },
+    {
+        "id_objednavky": 3,
+        "cislo_zakaznika": 3,
+        "datumObjednania": "2024-01-06",
+        "datumOdoslania": "2024-01-08",
+        "segmenty": [{
+            "popis": "Problemovy zakaznik"
+        },
+        {
+            "popis": "Mladý dospelý"
+        }
+    ],
+    "sposobDopravy": {
+        "popis": "1 trieda"
+    },
+        "detaily_objednavky": {
+            "produkt": [{
+                "product_id": 1,
+                "pocet": 2,
+                "cena": 20.00,
+                "zlava": 0.00
+            }],
+            "pocet": 2,
+            "spolu": 20.00,
+            "profit": 5.00
+
+        }
+    }
+   
+]
